@@ -1,1 +1,1 @@
-# wujisoo_website
+# wujisoo_web
